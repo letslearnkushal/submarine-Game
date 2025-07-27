@@ -127,7 +127,7 @@ function update (){
         context.fillText("Game Over", 70 , 300);
         context.fillStyle ="red";
         context.font = "20px sans-serif"
-        context.fillText("Press space to start over" , 70, 350)
+        context.fillText("Press space/click to start over" , 70, 350)
     }
 }
 
